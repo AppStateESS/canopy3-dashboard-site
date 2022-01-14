@@ -1,0 +1,19 @@
+{
+  "name": "canopy3-dashboard-site",
+  "description": "Allows the creation and administration of sites.",
+  "directory": "canopy3-dashboard-site",
+  "type": "canopy3-dashboard",
+  "namespace": "Site",
+  "version": "1.0.0",
+  "repository": "https://github.com/AppStateESS/canopy3-dashboard-site.git",
+  "releaseAPI": "https://github.com/AppStateESS/canopy3-dashboard-site.git",
+  "homepage": "https://github.com/AppStateESS/canopy3-dashboard-site",
+  "title": "Canopy 3 Site Administration",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Matt McNaney",
+      "email": "mcnaneym@appstate.edu"
+    }
+  ]
+}
